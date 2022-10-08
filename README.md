@@ -1,6 +1,6 @@
 # Hello, I'm Sachin Macwan 
 
-## I am a Developer
+## I am a Software Developer
 
 - 🔭 Check out my [Portfolio Website](https://sach7n.netlify.app/)
 - 🌱 I’m currently building things on the internet using React and Node
